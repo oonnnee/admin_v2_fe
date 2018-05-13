@@ -1,0 +1,9 @@
+{
+  "name": "admin_v2_fe",
+  "version": "1.0.0",
+  "description": "电商后台管理页面",
+  "main": "index.js",
+  "repository": "git@github.com:oonnnee/admin_v2_fe.git",
+  "author": "one <1729711680@qq.com>",
+  "license": "MIT"
+}
